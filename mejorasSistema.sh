@@ -1,5 +1,11 @@
 #!/bin/bash
 
+##############################################
+#            Script By Aussterben            #
+##############################################
+
+# Recuerda dar permisos de ejecución con "chmod +x mejorasSistema.sh"
+
 #Colores
 greenColour="\e[0;32m\033[1m"
 endColour="\033[0m\e[0m"
