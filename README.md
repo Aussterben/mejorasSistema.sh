@@ -1,10 +1,12 @@
-______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+___
 
 # Update && Upgrade
 Este script tiene la función de poder actualizar y a su misma vez upgradear el sistema
 
 # Herramientas
 Este script tiene la función de descargar herramientas
+
+___
 
 # Parámetros
 
@@ -21,4 +23,4 @@ Este script tiene la función de descargar herramientas
 # Creador
 Este script está totalmente creado por Aussterben. Si quieres usarlo, recuerda dar créditos.
 
-______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+___
